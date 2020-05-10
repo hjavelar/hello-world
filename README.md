@@ -1,3 +1,3 @@
 # hello-world
-Iniciando no Github
+Iniciando no Github.
 Aprendendo a fazer alterações...
